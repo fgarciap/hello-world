@@ -1,2 +1,6 @@
 # hello-world
-Mu first repository on GitHub
+My first repository on GitHub
+============================
+I hope this works and be useful
+Thanks
+
